@@ -99,7 +99,7 @@ export default function UltraBeePage() {
             </p>
 
             <h2 className="text-5xl font-black text-purple-400 mt-2">
-              49 999 zł
+              32900,00 zł
             </h2>
 
           </div>

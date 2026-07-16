@@ -9,7 +9,7 @@ export default function HyperBeePage() {
 
         <div className="flex justify-center">
           <Image
-            src="/hyper-bee.png"
+            src="/surron2.png"
             alt="Surron Hyper Bee"
             width={700}
             height={700}
@@ -53,7 +53,7 @@ export default function HyperBeePage() {
             </p>
 
             <h2 className="text-5xl font-black text-purple-400 mt-2">
-              39 999 zł
+              12999.00 zł
             </h2>
           </div>
 

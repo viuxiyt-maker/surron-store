@@ -60,7 +60,7 @@ export default function LightBeePage() {
             <p className="text-gray-500">Cena</p>
 
             <h2 className="text-5xl font-black text-purple-400 mt-2">
-              29 999 zł
+              29999,00 zł
             </h2>
           </div>
 
