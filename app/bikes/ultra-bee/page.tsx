@@ -9,7 +9,7 @@ export default function UltraBeePage() {
 
         <div className="flex justify-center">
           <Image
-            src="/ultra-bee.png"
+            src="/surron3.png"
             alt="Surron Ultra Bee"
             width={700}
             height={700}
