@@ -137,7 +137,7 @@ export default function Hero() {
 
             <div>
               <h3 className="text-3xl font-black text-purple-400">
-                75 km/h
+                90 km/h
               </h3>
 
               <p className="text-gray-500">
@@ -148,7 +148,7 @@ export default function Hero() {
 
             <div>
               <h3 className="text-3xl font-black text-purple-400">
-                6000W
+                12000W
               </h3>
 
               <p className="text-gray-500">
@@ -159,7 +159,7 @@ export default function Hero() {
 
             <div>
               <h3 className="text-3xl font-black text-purple-400">
-                100 km
+                120 km
               </h3>
 
               <p className="text-gray-500">
