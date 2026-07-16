@@ -5,7 +5,7 @@ export const bikes = [
     speed: "75 km/h",
     price: "29 999 zł",
     image: "/surron1.png",
-    link: "/bikes/light-bee",
+    link: "/bikes/light-bee2",
   },
   {
     name: "Sur-Ron Ultra Bee",

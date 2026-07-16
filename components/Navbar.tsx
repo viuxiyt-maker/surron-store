@@ -31,7 +31,7 @@ export default function Navbar() {
 
 const links = [
   { name: "Home", href: "/" },
-  { name: "Bikes", href: "/bikes" },
+  { name: "Bikes", href: "/#bikes" },
   { name: "Parts", href: "/parts" },
   { name: "Gallery", href: "/gallery" },
   { name: "Contact", href: "/#contact" },
